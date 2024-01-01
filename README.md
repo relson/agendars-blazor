@@ -8,6 +8,13 @@ Etapas:
 - [ ] - Implatação
 - [ ] - Blog Post
 
+## Tecnologias
+
+- dotnet 8
+- Blazor (InteractiveServer)
+- EntityFramework
+- SQLite
+
 ## Algumas referências
 - [Macoratti](https://www.macoratti.net/)
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject)
