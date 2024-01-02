@@ -12,6 +12,7 @@ Etapas:
 
 - dotnet 8
 - Blazor (InteractiveServer)
+- Fluent UI
 - EntityFramework
 - SQLite
 
