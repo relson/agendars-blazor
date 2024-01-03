@@ -16,6 +16,13 @@ Etapas:
 - EntityFramework
 - SQLite
 
+## Criando o Projet
+
+> Verificando a versão do dotnet
+```shell
+dotnet --info
+```
+
 ## Algumas referências
 - [Macoratti](https://www.macoratti.net/)
 - [CRUD para IMPRESSIONAR na entrevista por Balta](https://youtu.be/fmDYYsSXrKM?si=xdJhd0ecpUjetxXb)
