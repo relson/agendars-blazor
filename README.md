@@ -16,12 +16,20 @@ Etapas:
 - EntityFramework
 - SQLite
 
-## Criando o Projet
+## Criando o Projeto
 
 > Verificando a versão do dotnet
+
 ```shell
 dotnet --info
 ```
+
+> Instalando/Atualizando o EntityFramework
+```shell
+dotnet toll install --global dotnet-ef # se ainda não estiver instalado
+dotnet tool update dotnet-ef           # para atualizar para versão mais recente
+```
+
 
 ## Algumas referências
 - [Macoratti](https://www.macoratti.net/)
