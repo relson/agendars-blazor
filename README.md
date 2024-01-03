@@ -18,5 +18,5 @@ Etapas:
 
 ## Algumas referências
 - [Macoratti](https://www.macoratti.net/)
-- [CRUD para IMPRESSIONAR na entrevista](https://youtu.be/fmDYYsSXrKM?si=xdJhd0ecpUjetxXb)
+- [CRUD para IMPRESSIONAR na entrevista por Balta](https://youtu.be/fmDYYsSXrKM?si=xdJhd0ecpUjetxXb)
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject)
