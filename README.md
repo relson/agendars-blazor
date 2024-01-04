@@ -1,4 +1,4 @@
-# AgendaRS - Blazor
+# AgendaRS .NET
 
 Inspirado no [Projeto Equinox](#algumas-referências) do [Eduardo Pires](https://github.com/EduardoPires/) porem documentar o passao a passo de como se pode criar o projeto do zero e em vários níveis de complexidade bem como um template de github action para implantação em um servidor simples via ```ssh```.
 
@@ -26,7 +26,7 @@ dotnet --info
 
 > Instalando/Atualizando o EntityFramework
 ```shell
-dotnet toll install --global dotnet-ef # se ainda não estiver instalado
+dotnet tool install --global dotnet-ef # se ainda não estiver instalado
 dotnet tool update dotnet-ef           # para atualizar para versão mais recente
 ```
 
