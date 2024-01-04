@@ -27,7 +27,7 @@ dotnet --info
 > Instalando/Atualizando o EntityFramework
 ```shell
 dotnet tool install --global dotnet-ef # se ainda não estiver instalado
-dotnet tool update dotnet-ef           # para atualizar para versão mais recente
+dotnet tool update --global dotnet-ef  # para atualizar para versão mais recente
 ```
 
 
