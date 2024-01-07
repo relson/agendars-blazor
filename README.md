@@ -29,7 +29,10 @@ dotnet --info
 dotnet tool install --global dotnet-ef # se ainda não estiver instalado
 dotnet tool update --global dotnet-ef  # para atualizar para versão mais recente
 ```
-
+>Adicionando uma nova página, instalando o code generator
+```shell
+dotnet tool install -g dotnet-aspnet-codegenerator 
+```
 
 ## Algumas referências
 - [Macoratti](https://www.macoratti.net/)
