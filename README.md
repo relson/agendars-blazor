@@ -12,7 +12,7 @@ Etapas:
 
 - Dotnet 8
 - Blazor (InteractiveServer)
-- Fluent UI Blazor
+- [Fluent UI Blazor](https://www.fluentui-blazor.net/)
 - EntityFramework
 - SQLite
 
@@ -38,3 +38,4 @@ dotnet tool install -g dotnet-aspnet-codegenerator
 - [Macoratti](https://www.macoratti.net/)
 - [CRUD para IMPRESSIONAR na entrevista por Balta](https://youtu.be/fmDYYsSXrKM?si=xdJhd0ecpUjetxXb)
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject)
+- [Fluent UI - Blazor](https://www.fluentui-blazor.net/)
