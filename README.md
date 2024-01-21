@@ -34,6 +34,16 @@ dotnet tool update --global dotnet-ef  # para atualizar para versão mais recent
 dotnet tool install -g dotnet-aspnet-codegenerator 
 ```
 
+>Instalando os templates do Fluent UI
+```shell
+dotnet new install Microsoft.FluentUI.AspNetCore.Templates
+```
+>Verificando os templates instalados os templates do Fluent UI
+```shell
+dotnet new list fluent
+```
+
+
 ## Algumas referências
 - [Macoratti](https://www.macoratti.net/)
 - [CRUD para IMPRESSIONAR na entrevista por Balta](https://youtu.be/fmDYYsSXrKM?si=xdJhd0ecpUjetxXb)
