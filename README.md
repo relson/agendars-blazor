@@ -42,6 +42,7 @@ dotnet new install Microsoft.FluentUI.AspNetCore.Templates
 ```shell
 dotnet new list fluent
 ```
+Nesse exemplos vamos utilizar o template ```fluentblazor```
 
 
 ## Algumas referências
